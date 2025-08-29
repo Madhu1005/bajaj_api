@@ -37,7 +37,7 @@ async def bfhl(input_data: InputData):
     return {
         "is_success": True,
         "user_id": "Madhu_Varshini_S_10052005",   
-        "email": "madhupks10@gmail.com",
+        "email": "madhuvarshini.s2022@vitstudent.ac.in",
         "roll_number": "22BCE5249",
         "odd_numbers": odds,
         "even_numbers": evens,
